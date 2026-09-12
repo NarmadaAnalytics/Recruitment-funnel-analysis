@@ -5,7 +5,7 @@ Where are candidates dropping off in the hiring process, and which departments, 
 
 ## Dashboard
 
-![Dashboard](Dashboard_screenshot.png)
+![Dashboard](Dashboard.png)
 
 Interactive Power BI dashboard tracking the full hiring funnel from application to hire, with breakdowns by department and sourcing channel.
 
