@@ -16,7 +16,7 @@ Interactive Power BI dashboard analyzing the recruitment funnel from application
 - Applications by Department
 - Hire Conversion Rate by Source
 
-![Recruitment Funnel Analysis Dashboard](dashboard.png.png)
+![Recruitment Funnel Analysis Dashboard](Dashboard.png.png)
 
 ## Dataset
 
