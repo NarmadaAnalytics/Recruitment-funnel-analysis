@@ -16,7 +16,7 @@ Interactive Power BI dashboard analyzing the recruitment funnel from application
 - Applications by Department
 - Hire Conversion Rate by Source
 
-![Recruitment Funnel Dashboard](dasboard.png.png)
+![Recruitment Funnel Dashboard](dashboard.png.png)
 
 ## Dataset
 
@@ -35,7 +35,7 @@ The dataset includes **7 departments, 20 roles, and 6 sourcing channels**.
 - **Overall funnel:** **583 candidates were hired** from 6,000 applicants, an overall applied-to-hire rate of **9.7%**.
 - **Source effectiveness:** Referrals had a **17.4%** hire conversion rate compared with **3.0%** for Job Board candidates.
 - **Offer declines:** Engineering had an **offer-decline rate of 16.7%**, identified through the SQL analysis.
-- **Time to hire:** Average time-to-hire was **24.5 days**, with Screened → Interviewed taking the longest at **8.6 days** on average.
+- **Time to hire:** Average time-to-hire was **25 days**, with Screened → Interviewed taking the longest at **9 days** on average.
 
 ## Recommendations
 
