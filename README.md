@@ -31,7 +31,7 @@ Interactive Power BI dashboard tracking the full hiring funnel from application 
 
 4. **Engineering also has the highest offer-decline rate (16.7%)**, compounding its hiring difficulty at two separate stages.
 
-5. **Average time-to-hire is 24.5 days**, with Screened → Interviewed taking the longest at 8.6 days on average.
+5. **Average time-to-hire is 25 days**, with Screened → Interviewed taking the longest at 8.6 days on average.
 
 ## Recommendations
 - Investigate Engineering's screening process — the drop-off is disproportionate and worth a root-cause review.
